@@ -4,7 +4,7 @@ title: "Bósi Ljósár"
 author: "Óðinn Dagur"
 categories: resources
 tags: [documentation,sample]
-image: arctic-2.jpg
+image: bosi-hauslaus-1.jpeg
 ---
 
 Strákurinn minn elskar Toy Story. Einhvern tíma fékk ég þá flugu í hausinn að væri gaman að gefa honum Bósa Ljósár sem talar íslensku.
